@@ -1,6 +1,6 @@
 # My Solutions from Java Programming Masterclass course by Tim Buchalka (link in the description)
 https://www.udemy.com/java-the-complete-java-developer-course/
 
-In this repository, programs are sorted in similar to the course section allocation to represent their major included structures, hence might not match with Java Class Hierarchy. 
+The current repository contains my solutions of challenges from the most complete, best-selling, in-depth Java programming online course on Udemy. The course is aimed to provide advanced Java programming knowledge by building creative and complex Java apps and learning "absolutely everything about Java."
 
-Also, some of the structures might be described as improper to the official definition.(e.g. TreeMap "list") Such situations rather emphasize its function within a specific program, but not the Java official structure definition.
+Programs here are sorted in similar to the course section allocation to represent their major used structures and have nothing to do with official Java Class Hierarchy classification.
