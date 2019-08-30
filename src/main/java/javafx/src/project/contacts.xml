@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Nicole</first_name>
+	<last_name>Cain</last_name>
+	<phone_number>1234567890</phone_number>
+	<notes>N/A</notes>
+</contact>
+<contact>
+	<first_name>Marshall</first_name>
+	<last_name>Lindsey</last_name>
+	<phone_number>202-555-0187</phone_number>
+	<notes>What`s up Doc?</notes>
+</contact>
+<contact>
+	<first_name>Sherry</first_name>
+	<last_name>Robertson</last_name>
+	<phone_number>(202)555-0189</phone_number>
+	<notes>Cup of tea</notes>
+</contact>
+<contact>
+	<first_name>Kathy</first_name>
+	<last_name>Lynch</last_name>
+	<phone_number>(202)5550175</phone_number>
+	<notes>=*)</notes>
+</contact>
+<contact>
+	<first_name>Sonya</first_name>
+	<last_name>Gross</last_name>
+	<phone_number>202-555-0198</phone_number>
+	<notes>Happy day!</notes>
+</contact>
+</contacts>
